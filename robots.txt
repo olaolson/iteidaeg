@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ufiotheimu.winktoolkit.org/sitemap.xml
